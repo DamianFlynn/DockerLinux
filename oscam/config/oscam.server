@@ -1,0 +1,29 @@
+#
+# reader configuration
+#
+
+# remote CCcam reader
+
+
+[reader]
+label                         = sky_uk_dm500
+description                   = DM500 SkyUK Card
+protocol                      = cccam
+device                        = 172.16.1.16,12666
+user                          = pvr-tvheadend
+password                      = oscam
+inactivitytimeout             = 30
+caid                          = 0963
+group                         = 1
+cccversion                    = 2.2.1
+cccreshare                    = 5
+
+
+[reader]
+label                         = biss
+description                   = BISS Keys
+enable                        = 0
+protocol                      = constcw
+device                        = /etc/oscam-svn/keys/constant.cw
+caid                          = 2600
+group                         = 2

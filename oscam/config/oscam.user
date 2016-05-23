@@ -1,0 +1,95 @@
+#
+# user configuration
+#
+
+[account]
+user                          = tonyflynn
+pwd                           = viewsky
+description                   = Tonys DM800Se
+uniq                          = 2
+au                            = 1
+group                         = 1,2,3,4,5
+cccmaxhops                    = 2
+cccreshare                    = 0
+cccignorereshare              = 1
+
+[account]
+user                          = davidmcandrew
+pwd                           = seethestars
+description                   = Davids DM800Se
+uniq                          = 2
+au                            = 1
+group                         = 1,2,3,4,5
+cccmaxhops                    = 2
+cccreshare                    = 0
+cccignorereshare              = 1
+
+[account]
+user                          = dm500
+pwd                           = anac0nda
+description                   = Liam Gallagher
+uniq                          = 2
+au                            = 1
+group                         = 1
+cccmaxhops                    = 2
+cccreshare                    = 0
+cccignorereshare              = 1
+
+[account]
+user                          = gab
+pwd                           = d1g1nerve
+description                   = Gabriel Volleymer A
+uniq                          = 2
+au                            = 1
+group                         = 1
+cccmaxhops                    = 2
+cccreshare                    = 0
+cccignorereshare              = 1
+
+[account]
+disabled                      = 1
+user                          = garcia
+pwd                           = viewsky
+description                   = Gabriel Volleymer B
+uniq                          = 2
+au                            = 1
+group                         = 1
+cccmaxhops                    = 2
+cccreshare                    = 0
+cccignorereshare              = 1
+
+[account]
+user                          = thekid
+pwd                           = br00kv1lle
+description                   = Keith and Siobhain
+uniq                          = 2
+au                            = 1
+group                         = 1,2,3
+cccmaxhops                    = 2
+cccreshare                    = 0
+cccignorereshare              = 1
+
+[account]
+user                          = jones
+pwd                           = viewsky
+description                   = Pat Jones
+uniq                          = 2
+au                            = 1
+group                         = 1
+cccmaxhops                    = 2
+cccreshare                    = 0
+cccignorereshare              = 1
+
+[account]
+user                          = johnny
+pwd                           = dm500hd
+description                   = John Gallagher
+uniq                          = 2
+au                            = 1
+group                         = 1
+services                      = !skyuk_sports_pack_sd,!skyuk_sports_pack_hd,!skyuk_3d,!skyuk_setanta,!skyuk_btsport,!skyuk_espn,!skyuk_premier_sports,!skyuk_boxnation,!skyuk_chelsea_tv,!skyuk_mutv,!skyuk_racing_uk,!skyuk_boxoffice,!skyuk_xxx_skyuk_adult_pack,!skyuk_xxx_redhot_xtv_pack,!skyuk_xxx_ppv
+cccmaxhops                    = 2
+cccreshare                    = 0
+cccignorereshare              = 1
+
+
